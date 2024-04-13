@@ -1,3 +1,6 @@
 go 1.22.1
 
-use ./echo
+use (
+	./echo
+	./unique_ids
+)
