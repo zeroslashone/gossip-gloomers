@@ -2,5 +2,6 @@ go 1.22.1
 
 use (
 	./echo
+	./single_node_broadcast
 	./unique_ids
 )
